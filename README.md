@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">currently on transition from interior design to data science</h3>
+<h3 align="center">Currently on transition from interior design to the world of data</br>I just finished a bootcamp for data science @ lewagon in cologne
+</h3>
 
-- 🔭 I’m currently working on **tiniworld footfall forcast**
 
 - 🌱 I’m currently learning **more about cloud infrastructure and deployment**
 
