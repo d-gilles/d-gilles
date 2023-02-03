@@ -4,7 +4,7 @@
 </h3>
 
 
-- 🌱 I’m currently learning **more about cloud infrastructure and deployment**
+- 🌱 I’m currently learning **more about cloud infrastructure and data engineering**
 
 - 👯 I’m looking to collaborate on **interesting open source projects**
 
