@@ -1,10 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm David</h1>
-🧔 I'm a seasoned professional transitioning from a rich background in interior design to the fascinating world of data. I recently completed an intensive Data Science Bootcamp at Le Wagon in Cologne, where I developed a robust foundation in data analysis, machine learning, and data visualization.
+🧔 I'm a seasoned professional transitioning from a rich background in interior design to the fascinating world of data. I recently completed an intensive Data Science Bootcamp at Le Wagon in Cologne, where I developed a robust foundation in data analysis, machine learning, and data visualization.&nbsp;&nbsp;
 
-📐 My background in creating 3D CAD drawings for furniture construction and interior design has honed my eye for detail, and given me a unique perspective on data. Over the years, I've become proficient with Rhino 3D, Vectorworks, and AutoCAD.
 
 ⚙️ My fascination with automation has led me to automate CAD systems, primarily using tools like Grasshopper and Python. The algorithms I developed have seen application in generative design, mass custom production, and automation of digital workflows in CNC/CAM processes.
+
+📐 My background in creating 3D CAD drawings for furniture construction and interior design has honed my eye for detail, and given me a unique perspective on data. Over the years, I've become proficient with Rhino 3D, Vectorworks, and AutoCAD.
 
 🚀 Now, I'm diving deeper into cloud infrastructure and data engineering, keen to explore the vast opportunities these domains offer. My interest lies in automating data processing, creating and maintaining cloud infrastructure, and optimizing workflows with well-crafted algorithms.
 
@@ -13,7 +13,6 @@
 👀 I'm actively seeking job opportunities and freelance work in data engineering and cloud development. I'm particularly drawn towards roles that would allow me to leverage my unique combination of skills to foster innovation.
 
 🤝 I'm looking forward to connecting with other professionals in the field, so please feel free to reach out if you have any advice, suggestions, or opportunities that might be a good fit.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
