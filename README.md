@@ -15,7 +15,7 @@ BTW check out 👉🏼 [Planet Wild](https://planetwild.com/) and join us on our
 
 ### What is next?
 
-🚀 Now I am diving deeper into the areas of data engineering and cloud infrastructure and want to explore the opportunities these areas offer. For my current tasks, I am learning more about data warehousing and data modling.
+🚀 Now I am diving deeper into the areas of data engineering and cloud infrastructure and want to explore the opportunities these areas offer. For my current tasks, I am learning more about data warehousing, data modling and the AWS ecosystem.
 
 🤝 I'm looking forward to connecting with other professionals in the field, so please feel free to reach out if you have any advice, suggestions, or opportunities that might be a good fit.
 
