@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-🧔 I'm a seasoned professional transitioning from a rich background in interior design to the fascinating world of data. I recently completed an intensive Data Science Bootcamp at Le Wagon in Cologne, where I developed a robust foundation in data analysis, machine learning, and data visualization.</br>
-</br>
+🧔 I am an experienced professional who has moved into the fascinating world of data after many years of project management in interior design. 
+
+In addition to my own studies, I attended two bootcamps on the subject of data. The Data Science Bootcamp at [Le Wagon](https://www.lewagon.com/) (Cologne) and the Data Engineering Bootcamp of the [Data Talks Club](https://datatalks.club/) (Berlin). Both gave me a good overview and a production ready understanding of the data topic, which I now apply and deepen in my work as a Data Engineer at Planet Wild.
 
 
-⚙️ My fascination with automation has led me to automate CAD systems, primarily using tools like Grasshopper and Python. The algorithms I developed have seen application in generative design, mass custom production, and automation of digital workflows in CNC/CAM processes.
+BTW check out 👉🏼 [Planet Wild](https://planetwild.com/) and join us on our mission to make the world a better place!
 
-📐 My background in creating 3D CAD drawings for furniture construction and interior design has honed my eye for detail, and given me a unique perspective on data. Over the years, I've become proficient with Rhino 3D, Vectorworks, and AutoCAD.
 
-🚀 Now, I'm diving deeper into cloud infrastructure and data engineering, keen to explore the vast opportunities these domains offer. My interest lies in automating data processing, creating and maintaining cloud infrastructure, and optimizing workflows with well-crafted algorithms.
 
-💡 I'm eager to apply my skills in real-world scenarios, especially through contributing to open-source projects. My ultimate goal is to drive innovation and efficiency using my unique blend of design and data analysis skills.
+### What was before?
+⚙️ My fascination with automation has led me to automate CAD systems (since 2008) primarily using tools like Grasshopper and Python. The algorithms I developed have seen application in generative design, mass custom production, and automation of digital workflows in CNC/CAM processes.
 
-👀 I'm actively seeking job opportunities and freelance work in data engineering and cloud development. I'm particularly drawn towards roles that would allow me to leverage my unique combination of skills to foster innovation.
+📐 My background in creating 3D CAD drawings for furniture making and interior design has sharpened my eye for detail. I can go into great detail, but I also know how much is enough to get a result that delights my clients.
+
+### What is next?
+
+🚀 Now I am diving deeper into the areas of data engineering and cloud infrastructure and want to explore the opportunities these areas offer. For my current tasks, I am learning more about data warehousing and data modling.
 
 🤝 I'm looking forward to connecting with other professionals in the field, so please feel free to reach out if you have any advice, suggestions, or opportunities that might be a good fit.
 
@@ -50,27 +54,5 @@
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="tensorflow" width="40" height="40"/> </a>
 
 </a>
-
-
-
-<h3 align="left">Design & Graphic</h3>
-</a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.rhino3d.com/" target="_blank" rel="noreferrer"> <img src="https://www.filou.de/wp-content/uploads/2020/12/Rhino7-Logo-2_200.jpg" alt="Rhino3D" width="40" height="40"/> </a>
-</a> 
-<a href="https://www.grasshopper3d.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHom0VwlweqFTvtb_rXInBvMQyqz10mEvS8whhiQrayODYN2SyO8Hz8M5Qu69A-Buw9ZA&usqp=CAU" alt="Grasshopper3D" width="40" height="40"/> </a>
-</a> 
-<a href="https://www.chaos.com/" target="_blank" rel="noreferrer"> <img src="https://png.pngitem.com/pimgs/s/452-4520022_v-ray-logo-hd-png-download.png" width="40" height="40"/> </a>
-<a href="https://www.autodesk.de/products/autocad/" target="_blank" rel="noreferrer"> <img src="https://softwarereviews.s3.amazonaws.com/production/favicons/offerings/2802/original/unnamed__9_-removebg-preview.png" width="40" height="40"/> </a>
-<a href="https://www.computerworks.de/produkte/vectorworks/vectorworks-interiorcad.html" target="_blank" rel="noreferrer"> <img src="https://whatthelogo.com/storage/logos/nemetschek-vectorworks-2016-12096.webp" width="40" height="40"/> </a>
-
- 
-
-
-
-
-
-
-
 
 </p>
