@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-🧔 I am an experienced professional who has moved into the fascinating world of data after many years of project management in interior design. 
+I am an experienced professional who transitioned into the world of data after many years in generative design. Currently, I work as a Data Engineer at Planet Wild, where I apply my knowledge to optimize and automate our data infrastructure. This includes managing our PostgreSQL-based Data Warehouse on AWS RDS and integrating various external data sources.
 
-In addition to my own studies, I attended two bootcamps on the subject of data. The Data Science Bootcamp at [Le Wagon](https://www.lewagon.com/) (Cologne) and the Data Engineering Bootcamp of the [Data Talks Club](https://datatalks.club/) (Berlin). Both gave me a good overview and a production ready understanding of the data topic, which I now apply and deepen in my work as a Data Engineer at Planet Wild.
-
-
-BTW check out 👉🏼 [Planet Wild](https://planetwild.com/) and join us on our mission to make the world a better place!
-
+In collaboration with stakeholders we define KPIs and develop data models that provide consistent and accurate data for the company. A key part of my role involves setting up internal transformation layers within the DWH using SQL models to ensure the data is well-prepared for analysis and reporting. I also build custom automations with AWS Lambda to eliminate manual processes and ensure data quality through integrated checks. Additionally, I manage dashboards in MetaBase, helping different business areas leverage data-driven insights.
+BTW check out 👉🏼 [Planet Wild](https://planetwild.com/) and join us on our mission!
 
 
 ### What was before?
@@ -22,37 +19,57 @@ BTW check out 👉🏼 [Planet Wild](https://planetwild.com/) and join us on our
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/gilles-david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gilles-david" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/davidgilles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davidgilles" height="30" width="40" /></a>
-</p>
 
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Data & Code</h3>
 
 <p align="left"> 
 </a>
-<a href="https://de.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/zenn-user-upload/topics/b9d8b09ef0.png" alt="tensorflow" width="40" height="40"/> </a>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-</a> 
-</a> 
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/2.3.2/_images/pin_large.png" alt="tensorflow" width="40" height="40"/> </a>
-</a> 
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://ww1.freelogovectors.net/wp-content/uploads/2022/01/terra-form-logo-freelogovectors.net_.png?lossy=1&w=2560&ssl=1" alt="tensorflow" width="40" height="40"/> </a>
-</a>
-<a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/apideck/image/upload/v1571955925/catalog/mlflow-org/icon128x128.jpg" alt="tensorflow" width="40" height="40"/> </a>
-</a> 
-<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="tensorflow" width="40" height="40"/> </a>
 
-</a>
+<h2 align="left">Languages and Tools:</h2>
 
-</p>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" alt="Linux Logo" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas Logo" width="40" height="40"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn Logo" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL Logo" width="40" height="40"/>
+</a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://airflow.apache.org/docs/apache-airflow/2.3.2/_images/pin_large.png" alt="Airflow Logo" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-logo-icon-download-in-svg-png-gif-file-formats--cloud-computing-network-server-database-brand-pack-logos-icons-1583149.png?f=webp&w=256" alt="AWS Logo" width="40" height="40"/>
+</a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP Logo" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT Logo" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="40" height="40"/>
+</a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="Terraform Logo" width="40" height="40"/>
+</a>
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt Logo" width="40" height="40"/>
+</a>
+<a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" alt="Metabase Logo" width="40" height="40"/>
+</a>
+<a href="https://fivetran.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" alt="Fivetran Logo" width="40" height="40"/>
+</a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit Logo" width="40" height="40"/>
+</a>
